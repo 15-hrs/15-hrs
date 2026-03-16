@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎸 **About Me**<br><br>Hi, I’m an IT student who enjoys building projects and learning new technologies.<br><br>• I spend a lot of my free time playing guitar.<br>• I practice coding to improve my programming skills.<br>• I work with **C, C#, and C++**.<br>• I design websites and build them using **HTML, CSS, and Java**.<br>• I enjoy creating projects that help me learn and improve every day.<br><br>My goal is to keep building clean, useful projects and grow as a developer.<br>
+🎸 **About Me**<br><br>Just a random IT student who enjoys building projects and learning new technologies.<br><br>• I spend a lot of my free time playing guitar.<br>• I practice coding to improve my programming skills.<br>• I work with **C, C#, and C++**.<br>• I design websites and build them using **HTML, CSS, and Java**.<br>• I enjoy creating projects that help me learn and improve every day.<br><br>My goal is to keep building clean, useful projects and grow as a developer.<br>
 
 
 # 💻 Tech Stack:
